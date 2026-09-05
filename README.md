@@ -1,73 +1,70 @@
 <div align="center">
 
-<!-- Animated header banner (different style: rect instead of wave) -->
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,18&height=180&text=Business%20Analytics%20Project&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=50)
+# 📊 Business Analytics Project
 
-<!-- Animated typing text -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1200&color=2ECC71&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+into+Real+Decisions+%F0%9F%93%88;Dashboards+%7C+Forecasting+%7C+Insights;Data-Driven+Thinking%2C+One+Metric+at+a+Time+%F0%9F%93%8A)](https://git.io/typing-svg)
+### *Turning raw numbers into real business decisions*
 
-<!-- Badges -->
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-2ECC71?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&pause=1000&color=F7B801&center=true&vCenter=true&width=550&lines=Data+%E2%86%92+Insight+%E2%86%92+Decision;Statistics+meets+Strategy;Analytics+for+Real+Business+Impact" alt="Typing SVG" />
+
+<br>
+
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
 </div>
 
----
+<br>
 
-## 📖 About
+## 🧭 Overview
 
-This repository showcases my **Business Analytics Project**, developed to analyze real-world business data and translate it into **actionable insights**. The project applies statistical methods, data visualization, and analytical thinking to support data-driven decision-making.
+This project explores how data analytics can drive smarter business decisions — from identifying trends to forecasting outcomes and presenting insights that stakeholders can act on.
 
-> *"In God we trust. All others must bring data."* 📊
+<table align="center">
+<tr>
+<td width="33%" align="center">
 
----
+### 🔍
+**Explore**
+Cleaned & analyzed raw datasets to surface hidden trends
 
-## 🎯 Project Objectives
+</td>
+<td width="33%" align="center">
 
-- 📌 Identify key business trends and patterns from raw data
-- 📌 Build interactive dashboards for stakeholder decision-making
-- 📌 Apply statistical & predictive models to forecast outcomes
-- 📌 Translate data insights into clear business recommendations
+### 📈
+**Model**
+Applied statistical & forecasting techniques
 
----
+</td>
+<td width="33%" align="center">
 
-## 🧩 Concepts & Tools Used
+### 💡
+**Decide**
+Delivered insights as clear, actionable recommendations
 
-**Data Analysis**
-- 📈 Exploratory Data Analysis (EDA)
-- 📈 Descriptive & Inferential Statistics
-- 📈 Data Cleaning & Preprocessing
-- 📈 Hypothesis Testing
-
-**Visualization & Reporting**
-- 📊 Power BI / Tableau Dashboards
-- 📊 Excel Pivot Tables & Charts
-- 📊 Data Storytelling
-
-**Analytics & Modeling**
-- 🔍 Regression Analysis
-- 🔍 Time Series Forecasting
-- 🔍 Customer Segmentation
-- 🔍 A/B Testing
-
-**Business Application**
-- 💼 KPI Tracking & Performance Metrics
-- 💼 Market & Sales Analysis
-- 💼 Business Strategy Recommendations
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Key Concepts
 
-`Python` · `Pandas` · `NumPy` · `Matplotlib/Seaborn` · `SQL` · `Excel` · `Power BI`
+| Category | Topics |
+|---|---|
+| **Data Analysis** | EDA, Data Cleaning, Descriptive & Inferential Statistics |
+| **Visualization** | Power BI, Tableau, Excel Dashboards |
+| **Modeling** | Regression, Time Series Forecasting, A/B Testing |
+| **Business** | KPI Tracking, Market Analysis, Strategic Recommendations |
 
 ---
+
+## 🛠️ Built With
+
+`Python` &nbsp;·&nbsp; `Pandas` &nbsp;·&nbsp; `NumPy` &nbsp;·&nbsp; `Matplotlib` &nbsp;·&nbsp; `SQL` &nbsp;·&nbsp; `Power BI`
 
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,18&height=100)
-
+<br>
+<sub>⭐ If this project helped you, consider giving it a star!</sub>
 </div>
