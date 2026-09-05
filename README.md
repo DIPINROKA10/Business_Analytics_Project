@@ -1,70 +1,75 @@
 <div align="center">
 
-# 📊 Business Analytics Project
-
-### *Turning raw numbers into real business decisions*
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&pause=1000&color=F7B801&center=true&vCenter=true&width=550&lines=Data+%E2%86%92+Insight+%E2%86%92+Decision;Statistics+meets+Strategy;Analytics+for+Real+Business+Impact" alt="Typing SVG" />
-
-<br>
-
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+![header](https://capsule-render.vercel.app/api?type=egg&color=0:1D2B64,100:F8CDDA&height=180&section=header&text=Business%20Analytics&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=A%20Case%20Study%20in%20Data-Driven%20Decisions&descAlignY=68&descColor=ffffff&descSize=15)
 
 </div>
 
 <br>
 
-## 🧭 Overview
+<div align="center">
 
-This project explores how data analytics can drive smarter business decisions — from identifying trends to forecasting outcomes and presenting insights that stakeholders can act on.
+**CASE FILE №001** &nbsp;|&nbsp; **STATUS: Closed ✅** &nbsp;|&nbsp; **DOMAIN: Business Intelligence**
 
-<table align="center">
+</div>
+
+---
+
+## 📁 The Brief
+
+*A business generates data every hour — sales, customers, transactions, complaints. Most of it goes unread. This project was an attempt to change that: to sit with the numbers long enough that they start telling a story.*
+
+**The ask:** Turn scattered business data into a clear, defensible set of recommendations.
+
+<br>
+
+## 🔎 The Investigation
+
+<table>
 <tr>
-<td width="33%" align="center">
-
-### 🔍
-**Explore**
-Cleaned & analyzed raw datasets to surface hidden trends
-
-</td>
-<td width="33%" align="center">
-
-### 📈
-**Model**
-Applied statistical & forecasting techniques
-
-</td>
-<td width="33%" align="center">
-
-### 💡
-**Decide**
-Delivered insights as clear, actionable recommendations
-
-</td>
+<td width="25%" align="center"><b>Phase 1</b><br>🧹 Clean</td>
+<td width="25%" align="center"><b>Phase 2</b><br>🔬 Analyze</td>
+<td width="25%" align="center"><b>Phase 3</b><br>📊 Visualize</td>
+<td width="25%" align="center"><b>Phase 4</b><br>🎯 Recommend</td>
+</tr>
+<tr>
+<td>Handled missing values, inconsistent formats, and outliers in raw datasets</td>
+<td>Applied statistical tests and forecasting models to surface real patterns</td>
+<td>Built dashboards that make the findings obvious at a glance</td>
+<td>Converted analysis into decisions leadership could actually act on</td>
 </tr>
 </table>
 
----
+<br>
 
-## 🧩 Key Concepts
+## 📌 Findings Worth Noting
 
-| Category | Topics |
-|---|---|
-| **Data Analysis** | EDA, Data Cleaning, Descriptive & Inferential Statistics |
-| **Visualization** | Power BI, Tableau, Excel Dashboards |
-| **Modeling** | Regression, Time Series Forecasting, A/B Testing |
-| **Business** | KPI Tracking, Market Analysis, Strategic Recommendations |
+- **Pattern over noise** — most "insights" in business data are noise; the real signal takes cleaning and patience to find.
+- **A chart is an argument** — visualization isn't decoration, it's how you convince someone the data is right.
+- **Forecasts are hypotheses** — every prediction here is a best guess disciplined by evidence, not a guarantee.
 
----
+<br>
 
-## 🛠️ Built With
-
-`Python` &nbsp;·&nbsp; `Pandas` &nbsp;·&nbsp; `NumPy` &nbsp;·&nbsp; `Matplotlib` &nbsp;·&nbsp; `SQL` &nbsp;·&nbsp; `Power BI`
+## 🗂️ Toolkit on File
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/Python-1D2B64?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-F8CDDA?style=flat-square&logo=mysql&logoColor=1D2B64" />
+<img src="https://img.shields.io/badge/Power_BI-1D2B64?style=flat-square&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-F8CDDA?style=flat-square&logo=microsoft-excel&logoColor=1D2B64" />
+
+</div>
+
 <br>
-<sub>⭐ If this project helped you, consider giving it a star!</sub>
+
+## 🖋️ Closing Statement
+
+> *Numbers don't run a business — decisions do. This project is my attempt at making sure the two are never far apart.*
+
+<br>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=egg&color=0:1D2B64,100:F8CDDA&height=100&section=footer)
+
 </div>
